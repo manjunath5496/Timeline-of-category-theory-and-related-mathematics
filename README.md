@@ -1448,7 +1448,7 @@
 </tr>
 <tr>
 <td>2000</td>
-<td>Paul Taylor<sup id="cite_ref-1" class="reference"><a href="https://en.wikipedia.org/wiki/Timeline_of_category_theory_and_related_mathematics#cite_note-1">[1]</a></sup></td>
+<td>Paul Taylor</td>
 <td>ASD (Abstract Stone duality): A reaxiomatisation of the space and maps in general topology in terms of&nbsp;<a title="Lambda calculus" href="https://en.wikipedia.org/wiki/Lambda_calculus">&lambda;-calculus</a>&nbsp;of computable continuous functions and predicates that is both constructive and computable. The topology on a space is treated not as a lattice, but as an&nbsp;<a title="Exponential object" href="https://en.wikipedia.org/wiki/Exponential_object">exponential object</a>&nbsp;of the same category as the original space, with an associated &lambda;-calculus. Every expression in the &lambda;-calculus denotes both a continuous function and a program. ASD does not use the&nbsp;<a title="Category of sets" href="https://en.wikipedia.org/wiki/Category_of_sets">category of sets</a>, but the full subcategory of overt discrete objects plays this role (an overt object is the dual to a compact object), forming an&nbsp;<a class="new" title="Arithmetic universe (page does not exist)" href="https://en.wikipedia.org/w/index.php?title=Arithmetic_universe&amp;action=edit&amp;redlink=1">arithmetic universe</a>&nbsp;(pretopos with lists) with general recursion.</td>
 </tr>
 </tbody>
